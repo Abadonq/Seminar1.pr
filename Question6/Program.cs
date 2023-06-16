@@ -1,4 +1,6 @@
-﻿int num1 = new Random().Next(1,10); 
+﻿//Задача 6
+
+int num1 = new Random().Next(1,10); 
 
 if(num1%2==0)
 {
